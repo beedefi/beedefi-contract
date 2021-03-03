@@ -1,5 +1,8 @@
 # BeeSwap Farming 🐝
 
+### Timelock 24Hr.
+
+
 ## Deployed Contracts / Hash
 
 ### BSCMAINNET
